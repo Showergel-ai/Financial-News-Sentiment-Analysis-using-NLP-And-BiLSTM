@@ -1,0 +1,20 @@
+# Financial Project Application Requirements
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Data fetching
+yfinance>=0.1.70
+requests>=2.25.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+
+
+
